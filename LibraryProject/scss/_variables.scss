@@ -1,0 +1,47 @@
+@font-face {
+    font-family: roboto;
+    src: url(../);
+}
+//General comands
+$none: none;
+$auto: auto;
+$right: right;
+$left: left;
+$center: center;
+$absolute: absolute;
+$zero: 0;
+$solid: solid;
+
+//font
+
+$normal: normal;
+$bold: bold;
+
+
+//dimensions 
+$px100: 100px;
+$percentage100: 100%;
+$pt10: 10pt;
+
+//Grid values
+$grid: grid;
+
+//Flex values
+$flex: flex;
+$direccton-row: row;
+$direccton-column: column;
+$nowrap: nowrap;
+$space-btw: space-between;
+$flex-start: flex-start;
+$space-evenly: space-evenly;
+
+
+
+//Colors
+$primary-color: #233D4D;
+$secondary-color: #659794;
+$third-color: #EB5F59;
+$fourth-color: #FBC945;
+$fiveth-color: #A1BF80;
+$six-color: #66A5C8;
+$white: white;
